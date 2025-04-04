@@ -16,5 +16,5 @@ Colaborar con estudiantes de otras áreas, como ingeniería, matemáticas o elec
 
 ## Links importantes :monocle_face:
 - [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1my_Oo31XGP7EE2kQ7otHWRg_LeoMR48rmhF7LiMkbDY/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.com/channels/6569
+- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1wgWsQU43DDMyEr09BMkIvYmpA4GTBccfb_7I6ec0Hvw/edit?gid=1006593733#gid=1006593733) de clases.
+
